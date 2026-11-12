@@ -1,0 +1,9 @@
+[project]
+name = "debug-my-life"
+version = "0.1.0"
+description = "A tiny MCP server for the Claude Builders Club workshop"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "mcp[cli]>=2,<3",
+]
