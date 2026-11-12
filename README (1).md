@@ -1,5 +1,6 @@
 # debug-my-life
 
+
 A tiny MCP server for the Claude Builders Club workshop. It gives Claude one
 tool, `debug_my_life`, which treats a life problem like a software bug.
 
